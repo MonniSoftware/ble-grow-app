@@ -2,7 +2,7 @@
 Build Bluetooth-enabled iOS and Android apps effortlessly using a production-tested, modular app skeleton.
 
 <h1 align="center">
-  <a href="https://github.com/your-org/bleGrowApp">
+  <a href="https://github.com/MonniSoftware/bleGrowApp">
     bleGrowApp
   </a>
 </h1>
@@ -13,13 +13,13 @@ Build Bluetooth-enabled iOS and Android apps effortlessly using a production-tes
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-org/bleGrowApp/blob/main/LICENSE">
+  <a href="https://github.com/MonniSoftware/bleGrowApp/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="bleGrowApp is released under the MIT license." />
   </a>
-  <a href="https://github.com/your-org/bleGrowApp">
-    <img src="https://img.shields.io/github/v/release/your-org/bleGrowApp" alt="Current GitHub release version." />
+  <a href="https://github.com/MonniSoftware/bleGrowApp">
+    <img src="https://img.shields.io/github/v/release/MonniSoftware/bleGrowApp" alt="Current GitHub release version." />
   </a>
-  <a href="https://github.com/your-org/bleGrowApp/pulls">
+  <a href="https://github.com/MonniSoftware/bleGrowApp/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
   </a>
 </p>
@@ -63,7 +63,7 @@ Follow these steps to quickly set up and run the app.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-org/bleGrowApp.git
+   git clone https://github.com/MonniSoftware/bleGrowApp.git
    ```
 
 2. **Install Dependencies:**
@@ -92,7 +92,7 @@ Follow these steps to quickly set up and run the app.
 
 ## 📖 Documentation
 
-Full documentation including guides for customization, Bluetooth protocol integration, and application architecture can be found on our [Documentation Page](https://github.com/your-org/bleGrowApp/wiki).
+Full documentation including guides for customization, Bluetooth protocol integration, and application architecture can be found on our [Documentation Page](https://github.com/MonniSoftware/bleGrowApp/wiki).
 
 ---
 
@@ -137,11 +137,10 @@ We welcome community contributions! Commits and PRs are reviewed and approved by
 
 ## 📢 Community
 
-Join our [Discussion Forum](https://github.com/your-org/bleGrowApp/discussions) for support, feature requests, and general conversation.
+Join our [Discussion Forum](https://github.com/MonniSoftware/bleGrowApp/discussions) for support, feature requests, and general conversation.
 
 ---
 
 ## 📄 License
 
-bleGrowApp is MIT licensed. See the [LICENSE](https://github.com/your-org/bleGrowApp/blob/main/LICENSE) file for more details.
-
+bleGrowApp is MIT licensed. See the [LICENSE](https://github.com/MonniSoftware/bleGrowApp/blob/main/LICENSE) file for more details.
