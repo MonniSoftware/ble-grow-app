@@ -143,9 +143,4 @@ Join our [Discussion Forum](https://github.com/MonniSoftware/bleGrowApp/discussi
 
 ## 📄 License
 
-<<<<<<< Updated upstream
-bleGrowApp is MIT licensed. See the [LICENSE](https://github.com/your-org/bleGrowApp/blob/main/LICENSE) file for more details.
-
-=======
 bleGrowApp is MIT licensed. See the [LICENSE](https://github.com/MonniSoftware/bleGrowApp/blob/main/LICENSE) file for more details.
->>>>>>> Stashed changes
