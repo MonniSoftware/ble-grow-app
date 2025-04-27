@@ -1,0 +1,56 @@
+# .env
+.env*.local
+
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+
+# typescript
+*.tsbuildinfo
+
+# IDEs
+.vscode/
+.idea/
+
+/android/
+/ios/
+
+# maestro
+**report**.xml
+
+# jest
+junit.xml
+coverage/
+
+# storybook 
+.storybook/storybook.requires.ts
+
+# yarn
+.yarn/
+
+# Local README
+README-local.md
