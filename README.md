@@ -144,3 +144,4 @@ Join our [Discussion Forum](https://github.com/your-org/bleGrowApp/discussions) 
 ## 📄 License
 
 bleGrowApp is MIT licensed. See the [LICENSE](https://github.com/your-org/bleGrowApp/blob/main/LICENSE) file for more details.
+
