@@ -1,4 +1,4 @@
-# ble-grow-app
+# bleGrowApp
 Build Bluetooth-enabled iOS and Android apps effortlessly using a production-tested, modular app skeleton.
 
 <h1 align="center">
