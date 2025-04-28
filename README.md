@@ -23,19 +23,6 @@ Build Bluetooth-enabled iOS and Android apps effortlessly using a production-tes
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
   </a>
 </p>
-
-<h3 align="center">
-  <a href="#getting-started">Getting Started</a>
-  <span> · </span>
-  <a href="#documentation">Documentation</a>
-  <span> · </span>
-  <a href="#contributing">Contributing</a>
-  <span> · </span>
-  <a href="#community">Community</a>
-  <span> · </span>
-  <a href="#license">License</a>
-</h3>
-
 ---
 
 ## 📖 Introduction
