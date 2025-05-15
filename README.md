@@ -41,6 +41,8 @@ bleGrowApp is an open-source, modular mobile application skeleton designed speci
 - Yarn 4
 - Android Studio (SDK 34 or later)
 - Xcode (15+)
+- Android 10+
+- iOS 15.1+
 
 ---
 
